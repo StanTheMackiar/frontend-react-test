@@ -103,7 +103,7 @@ const ProductDetails = ({ product }: PropsOneProduct) => {
           <p>Avísame si baja</p>
           <img
             width="80"
-            src="./img/switch.svg"
+            src="./img/Switch.svg"
             alt="Switch Logotipo"
           />
         </div>
