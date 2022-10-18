@@ -24,7 +24,7 @@ const Card = ({product}: CardProps) => {
               <div>
                 <figure>
                   <img
-                    src="./img/WEB_MATERIAL-11.svg"
+                    src="./img/Area.svg"
                     title="Área" 
                     alt="Logotipo de area"/>
                   <figcaption>{estate.area}m^</figcaption>
@@ -32,7 +32,7 @@ const Card = ({product}: CardProps) => {
 
                 <figure>
                   <img
-                    src="./img/WEB_MATERIAL-10.svg"
+                    src="./img/Bed.svg"
                     title="Habitaciones"
                     alt="Logotipo de una cama" />
                   <figcaption>{estate.bedrooms}</figcaption>
@@ -40,7 +40,7 @@ const Card = ({product}: CardProps) => {
 
                 <figure>
                   <img
-                    src="./img/WEB_MATERIAL-09.svg"
+                    src="./img/Bath.svg"
                     title="Baños" 
                     alt="Logotipo de un retrete"/>
                   <figcaption>{estate.bathrooms}</figcaption>

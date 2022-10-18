@@ -19,7 +19,7 @@ const Header = ({ backIcon = false }: Props) => {
         <Link to="/">
           <img
             className="back-icon"
-            src="./img/ICON_ARROW-05.svg"
+            src="./img/ArrowBack.svg"
             alt="Logo volver hacia atras"
             title="Volver"
             width="30"

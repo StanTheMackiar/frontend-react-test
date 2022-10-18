@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { PropsOneProduct } from "../../../../interfaces/interfaces";
 
 //Estilos
@@ -15,6 +16,12 @@ const ProductDetails = ({ product }: PropsOneProduct) => {
     title,
   } = product;
 
+  const [isLiked, setIsLiked] = useState(false);
+
+  const handleLike = () => {
+    setIsLiked(prev => !prev) 
+  }
+
   return (
     <article className="detail">
       <section className="title-description-section">
@@ -28,7 +35,7 @@ const ProductDetails = ({ product }: PropsOneProduct) => {
         <div>
           <figure>
             <img
-              src="./img/WEB_MATERIAL-11.svg"
+              src="./img/Area.svg"
               alt="Logo del area"
               title="Área"
             />
@@ -37,7 +44,7 @@ const ProductDetails = ({ product }: PropsOneProduct) => {
 
           <figure>
             <img
-              src="./img/WEB_MATERIAL-10.svg"
+              src="./img/Bed.svg"
               alt="Logo de una cama"
               title="Habitaciones"
             />
@@ -46,7 +53,7 @@ const ProductDetails = ({ product }: PropsOneProduct) => {
 
           <figure>
             <img
-              src="./img/WEB_MATERIAL-09.svg"
+              src="./img/Bath.svg"
               alt="Logo de un baño"
               title="Baños"
             />
@@ -56,9 +63,9 @@ const ProductDetails = ({ product }: PropsOneProduct) => {
 
         <div>
           <p>{price}€</p>
-
           <img
-            src="./img/WEB_MATERIAL-08.svg"
+            onClick={handleLike}
+            src={`./img/${!isLiked ? "HearthOutlined" : "HearthContained"}.svg`}
             alt="Logo de un corazon"
             title="Agregar a favoritos"
           />
