@@ -27,20 +27,11 @@
     "images": {
       "miniature": {
         "alt": "Imagen en miniatura del inmueble en venta",
-        "src": "/img/Rectangle -1@2x.png"
+        "src": "/img/Miniature.png"
       },
-      "details": [
-        {
-          "src": "/img/Rectangle -3@2x.png",
-          "alt": "Imagen en grande del inmueble en venta"
-        },
-        {
-          "src": "/img/Rectangle -3@2x.png",
-          "alt": "Imagen en grande del inmueble en venta"
-        }
-      ],
+      "details": ["/img/Detail.png", "/img/Detail.png", "/img/Detail.png"],
       "map": {
-        "src": "/img/Screenshot 2020-07-06 at 11.53.49@2x.png",
+        "src": "/img/Map.png",
         "alt": "Mapa de la ubicacion del inmueble"
       }
     }
@@ -74,20 +65,11 @@
     "images": {
       "miniature": {
         "alt": "Imagen en miniatura del inmueble en venta",
-        "src": "/img/Rectangle -1@2x.png"
+        "src": "/img/Miniature.png"
       },
-      "details": [
-        {
-          "src": "/img/Rectangle -3@2x.png",
-          "alt": "Imagen en grande del inmueble en venta"
-        },
-        {
-          "src": "/img/Rectangle -3@2x.png",
-          "alt": "Imagen en grande del inmueble en venta"
-        }
-      ],
+      "details": ["/img/Detail.png", "/img/Detail.png", "/img/Detail.png"],
       "map": {
-        "src": "/img/Screenshot 2020-07-06 at 11.53.49@2x.png",
+        "src": "/img/Map.png",
         "alt": "Mapa de la ubicacion del inmueble"
       }
     }
@@ -121,20 +103,11 @@
     "images": {
       "miniature": {
         "alt": "Imagen en miniatura del inmueble en venta",
-        "src": "/img/Rectangle -1@2x.png"
+        "src": "/img/Miniature.png"
       },
-      "details": [
-        {
-          "src": "/img/Rectangle -3@2x.png",
-          "alt": "Imagen en grande del inmueble en venta"
-        },
-        {
-          "src": "/img/Rectangle -3@2x.png",
-          "alt": "Imagen en grande del inmueble en venta"
-        }
-      ],
+      "details": ["/img/Detail.png", "/img/Detail.png", "/img/Detail.png"],
       "map": {
-        "src": "/img/Screenshot 2020-07-06 at 11.53.49@2x.png",
+        "src": "/img/Map.png",
         "alt": "Mapa de la ubicacion del inmueble"
       }
     }
@@ -168,20 +141,11 @@
     "images": {
       "miniature": {
         "alt": "Imagen en miniatura del inmueble en venta",
-        "src": "/img/Rectangle -1@2x.png"
+        "src": "/img/Miniature.png"
       },
-      "details": [
-        {
-          "src": "/img/Rectangle -3@2x.png",
-          "alt": "Imagen en grande del inmueble en venta"
-        },
-        {
-          "src": "/img/Rectangle -3@2x.png",
-          "alt": "Imagen en grande del inmueble en venta"
-        }
-      ],
+      "details": ["/img/Detail.png", "/img/Detail.png", "/img/Detail.png"],
       "map": {
-        "src": "/img/Screenshot 2020-07-06 at 11.53.49@2x.png",
+        "src": "/img/Map.png",
         "alt": "Mapa de la ubicacion del inmueble"
       }
     }
@@ -215,20 +179,11 @@
     "images": {
       "miniature": {
         "alt": "Imagen en miniatura del inmueble en venta",
-        "src": "/img/Rectangle -1@2x.png"
+        "src": "/img/Miniature.png"
       },
-      "details": [
-        {
-          "src": "/img/Rectangle -3@2x.png",
-          "alt": "Imagen en grande del inmueble en venta"
-        },
-        {
-          "src": "/img/Rectangle -3@2x.png",
-          "alt": "Imagen en grande del inmueble en venta"
-        }
-      ],
+      "details": ["/img/Detail.png", "/img/Detail.png", "/img/Detail.png"],
       "map": {
-        "src": "/img/Screenshot 2020-07-06 at 11.53.49@2x.png",
+        "src": "/img/Map.png",
         "alt": "Mapa de la ubicacion del inmueble"
       }
     }
@@ -262,20 +217,11 @@
     "images": {
       "miniature": {
         "alt": "Imagen en miniatura del inmueble en venta",
-        "src": "/img/Rectangle -1@2x.png"
+        "src": "/img/Miniature.png"
       },
-      "details": [
-        {
-          "src": "/img/Rectangle -3@2x.png",
-          "alt": "Imagen en grande del inmueble en venta"
-        },
-        {
-          "src": "/img/Rectangle -3@2x.png",
-          "alt": "Imagen en grande del inmueble en venta"
-        }
-      ],
+      "details": ["/img/Detail.png", "/img/Detail.png", "/img/Detail.png"],
       "map": {
-        "src": "/img/Screenshot 2020-07-06 at 11.53.49@2x.png",
+        "src": "/img/Map.png",
         "alt": "Mapa de la ubicacion del inmueble"
       }
     }
@@ -309,20 +255,11 @@
     "images": {
       "miniature": {
         "alt": "Imagen en miniatura del inmueble en venta",
-        "src": "/img/Rectangle -1@2x.png"
+        "src": "/img/Miniature.png"
       },
-      "details": [
-        {
-          "src": "/img/Rectangle -3@2x.png",
-          "alt": "Imagen en grande del inmueble en venta"
-        },
-        {
-          "src": "/img/Rectangle -3@2x.png",
-          "alt": "Imagen en grande del inmueble en venta"
-        }
-      ],
+      "details": ["/img/Detail.png", "/img/Detail.png", "/img/Detail.png"],
       "map": {
-        "src": "/img/Screenshot 2020-07-06 at 11.53.49@2x.png",
+        "src": "/img/Map.png",
         "alt": "Mapa de la ubicacion del inmueble"
       }
     }
@@ -356,20 +293,11 @@
     "images": {
       "miniature": {
         "alt": "Imagen en miniatura del inmueble en venta",
-        "src": "/img/Rectangle -1@2x.png"
+        "src": "/img/Miniature.png"
       },
-      "details": [
-        {
-          "src": "/img/Rectangle -3@2x.png",
-          "alt": "Imagen en grande del inmueble en venta"
-        },
-        {
-          "src": "/img/Rectangle -3@2x.png",
-          "alt": "Imagen en grande del inmueble en venta"
-        }
-      ],
+      "details": ["/img/Detail.png", "/img/Detail.png", "/img/Detail.png"],
       "map": {
-        "src": "/img/Screenshot 2020-07-06 at 11.53.49@2x.png",
+        "src": "/img/Map.png",
         "alt": "Mapa de la ubicacion del inmueble"
       }
     }

@@ -8,25 +8,29 @@ interface ProductProviderProps {
 
 interface ProductContextType {
     products: Products[]
+    loading: boolean
 }
 
 
 const ProductContext = createContext<ProductContextType>({} as ProductContextType);
 
 const ProductProvider = ({children}: ProductProviderProps) => {
-
+    
+    const [loading, setLoading] = useState(false);
     const [products, setProducts] = useState<Products[]>([]);
 
     useEffect(() => {
         const callGetProducts = async () => {
+            setLoading(true)
             setProducts(await getProducts())
+            setLoading(false)
         }
 
         callGetProducts();
     }, []);
 
     return (
-        <ProductContext.Provider value={{products}}>{children}</ProductContext.Provider>
+        <ProductContext.Provider value={{products, loading}}>{children}</ProductContext.Provider>
     )
 }
 

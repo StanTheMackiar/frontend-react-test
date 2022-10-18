@@ -16,7 +16,7 @@ const Home = () => {
     <Layout>
       <section className="grid">
         {products.length &&
-          products.map((product) => <Card product={product} />)}
+          products.map((product) => <Card key={product.id} product={product} />)}
       </section>
     </Layout>
   );

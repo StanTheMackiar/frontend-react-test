@@ -16,13 +16,18 @@ export interface Products {
             alt: string,
             src: string,
         }
-        details: {
-            src: string,
-            alt: string,
-        }[]
+        details: string[],
         map?: {
             src: string,
             alt: string,
         }
     }
 }
+
+export interface PropsAllProducts{
+    products: Products[]
+}
+
+export interface PropsOneProduct {
+    product: Products
+  }

@@ -1,6 +1,7 @@
 import { Products } from '../../interfaces/interfaces'
 import { convertToPath } from '../../utility/utils';
 import '../../styles/components/Card.scss'
+import { Link } from 'react-router-dom';
 
 interface CardProps {
     product: Products,
@@ -26,7 +27,7 @@ const Card = ({product}: CardProps) => {
                     src="./img/WEB_MATERIAL-11.svg"
                     title="Área" 
                     alt="Logotipo de area"/>
-                  <figcaption>{estate.area}</figcaption>
+                  <figcaption>{estate.area}m^</figcaption>
                 </figure>
 
                 <figure>
@@ -48,7 +49,7 @@ const Card = ({product}: CardProps) => {
 
               <p className="price"><strong>{price}€</strong></p>
 
-              <button><a href={`/store/${convertToPath(title)}`}>Más info</a></button>
+              <button><Link to={`/details/${convertToPath(title)}`}>Más info</Link></button>
             </section>
           </article>
   )
