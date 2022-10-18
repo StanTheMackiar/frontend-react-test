@@ -1,0 +1,19 @@
+
+header{
+    width: 80%;
+    margin: 0 auto;
+    padding: 2rem 0 2rem 0;
+    display: flex;
+    @media (max-width: 800px) {
+      justify-content: center;
+    }
+  }
+
+  .back-icon {
+    position: absolute;
+    top: 2.7rem;
+    left: 2rem;
+    @media (max-width: 800px) {
+      left: 1.5rem;
+    }
+  }
