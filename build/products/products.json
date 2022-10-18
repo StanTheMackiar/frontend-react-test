@@ -1,0 +1,305 @@
+[
+  {
+    "id": 1,
+    "title": "Ático Dúplex de Obra Nueva 1",
+    "subtitle": "Marianao, Sant Boi de Llobregat",
+    "description": "Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas.. Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas.. Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas..",
+    "price": "330.000",
+    "estate": {
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "area": 102
+    },
+    "features": [
+      "Ático102 m2 (construidos)",
+      "3 Habitaciones",
+      "Segunda mano100 m2",
+      "Reformado",
+      "2 baños"
+    ],
+    "extras": [
+      "Terraza",
+      "Balcón",
+      "Ascensor",
+      "Calefacción",
+      "Aire acondicionado"
+    ],
+    "images": {
+      "miniature": {
+        "alt": "Imagen en miniatura del inmueble en venta",
+        "src": "/img/Miniature.png"
+      },
+      "details": ["/img/Detail.png", "/img/Detail.png", "/img/Detail.png"],
+      "map": {
+        "src": "/img/Map.png",
+        "alt": "Mapa de la ubicacion del inmueble"
+      }
+    }
+  },
+
+  {
+    "id": 2,
+    "title": "Ático Dúplex de Obra Nueva 2",
+    "subtitle": "Marianao, Sant Boi de Llobregat",
+    "description": "Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas.. Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas.. Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas..",
+    "price": "330.000",
+    "estate": {
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "area": 102
+    },
+    "features": [
+      "Ático102 m2 (construidos)",
+      "3 Habitaciones",
+      "Segunda mano100 m2",
+      "Reformado",
+      "2 baños"
+    ],
+    "extras": [
+      "Terraza",
+      "Balcón",
+      "Ascensor",
+      "Calefacción",
+      "Aire acondicionado"
+    ],
+    "images": {
+      "miniature": {
+        "alt": "Imagen en miniatura del inmueble en venta",
+        "src": "/img/Miniature.png"
+      },
+      "details": ["/img/Detail.png", "/img/Detail.png", "/img/Detail.png"],
+      "map": {
+        "src": "/img/Map.png",
+        "alt": "Mapa de la ubicacion del inmueble"
+      }
+    }
+  },
+
+  {
+    "id": 3,
+    "title": "Ático Dúplex de Obra Nueva 3",
+    "subtitle": "Marianao, Sant Boi de Llobregat",
+    "description": "Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas.. Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas.. Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas..",
+    "price": "330.000",
+    "estate": {
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "area": 102
+    },
+    "features": [
+      "Ático102 m2 (construidos)",
+      "3 Habitaciones",
+      "Segunda mano100 m2",
+      "Reformado",
+      "2 baños"
+    ],
+    "extras": [
+      "Terraza",
+      "Balcón",
+      "Ascensor",
+      "Calefacción",
+      "Aire acondicionado"
+    ],
+    "images": {
+      "miniature": {
+        "alt": "Imagen en miniatura del inmueble en venta",
+        "src": "/img/Miniature.png"
+      },
+      "details": ["/img/Detail.png", "/img/Detail.png", "/img/Detail.png"],
+      "map": {
+        "src": "/img/Map.png",
+        "alt": "Mapa de la ubicacion del inmueble"
+      }
+    }
+  },
+
+  {
+    "id": 4,
+    "title": "Ático Dúplex de Obra Nueva 4",
+    "subtitle": "Marianao, Sant Boi de Llobregat",
+    "description": "Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas.. Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas.. Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas..",
+    "price": "330.000",
+    "estate": {
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "area": 102
+    },
+    "features": [
+      "Ático102 m2 (construidos)",
+      "3 Habitaciones",
+      "Segunda mano100 m2",
+      "Reformado",
+      "2 baños"
+    ],
+    "extras": [
+      "Terraza",
+      "Balcón",
+      "Ascensor",
+      "Calefacción",
+      "Aire acondicionado"
+    ],
+    "images": {
+      "miniature": {
+        "alt": "Imagen en miniatura del inmueble en venta",
+        "src": "/img/Miniature.png"
+      },
+      "details": ["/img/Detail.png", "/img/Detail.png", "/img/Detail.png"],
+      "map": {
+        "src": "/img/Map.png",
+        "alt": "Mapa de la ubicacion del inmueble"
+      }
+    }
+  },
+
+  {
+    "id": 5,
+    "title": "Ático Dúplex de Obra Nueva 5",
+    "subtitle": "Marianao, Sant Boi de Llobregat",
+    "description": "Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas.. Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas.. Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas..",
+    "price": "330.000",
+    "estate": {
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "area": 102
+    },
+    "features": [
+      "Ático102 m2 (construidos)",
+      "3 Habitaciones",
+      "Segunda mano100 m2",
+      "Reformado",
+      "2 baños"
+    ],
+    "extras": [
+      "Terraza",
+      "Balcón",
+      "Ascensor",
+      "Calefacción",
+      "Aire acondicionado"
+    ],
+    "images": {
+      "miniature": {
+        "alt": "Imagen en miniatura del inmueble en venta",
+        "src": "/img/Miniature.png"
+      },
+      "details": ["/img/Detail.png", "/img/Detail.png", "/img/Detail.png"],
+      "map": {
+        "src": "/img/Map.png",
+        "alt": "Mapa de la ubicacion del inmueble"
+      }
+    }
+  },
+
+  {
+    "id": 6,
+    "title": "Ático Dúplex de Obra Nueva 6",
+    "subtitle": "Marianao, Sant Boi de Llobregat",
+    "description": "Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas.. Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas.. Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas..",
+    "price": "330.000",
+    "estate": {
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "area": 102
+    },
+    "features": [
+      "Ático102 m2 (construidos)",
+      "3 Habitaciones",
+      "Segunda mano100 m2",
+      "Reformado",
+      "2 baños"
+    ],
+    "extras": [
+      "Terraza",
+      "Balcón",
+      "Ascensor",
+      "Calefacción",
+      "Aire acondicionado"
+    ],
+    "images": {
+      "miniature": {
+        "alt": "Imagen en miniatura del inmueble en venta",
+        "src": "/img/Miniature.png"
+      },
+      "details": ["/img/Detail.png", "/img/Detail.png", "/img/Detail.png"],
+      "map": {
+        "src": "/img/Map.png",
+        "alt": "Mapa de la ubicacion del inmueble"
+      }
+    }
+  },
+
+  {
+    "id": 7,
+    "title": "Ático Dúplex de Obra Nueva 7",
+    "subtitle": "Marianao, Sant Boi de Llobregat",
+    "description": "Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas.. Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas.. Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas..",
+    "price": "330.000",
+    "estate": {
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "area": 102
+    },
+    "features": [
+      "Ático102 m2 (construidos)",
+      "3 Habitaciones",
+      "Segunda mano100 m2",
+      "Reformado",
+      "2 baños"
+    ],
+    "extras": [
+      "Terraza",
+      "Balcón",
+      "Ascensor",
+      "Calefacción",
+      "Aire acondicionado"
+    ],
+    "images": {
+      "miniature": {
+        "alt": "Imagen en miniatura del inmueble en venta",
+        "src": "/img/Miniature.png"
+      },
+      "details": ["/img/Detail.png", "/img/Detail.png", "/img/Detail.png"],
+      "map": {
+        "src": "/img/Map.png",
+        "alt": "Mapa de la ubicacion del inmueble"
+      }
+    }
+  },
+
+  {
+    "id": 8,
+    "title": "Ático Dúplex de Obra Nueva 8",
+    "subtitle": "Marianao, Sant Boi de Llobregat",
+    "description": "Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas.. Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas.. Dúplex de obra seminueva en Marianao. Finca del 2019. El piso consta de una planta con entrada al salón y final en terraza. El salón da entrada a la cocina y al pasillo que distribuye una de las habitaciones dobles y uno de los cuartos. de baño de tres piezas..",
+    "price": "330.000",
+    "estate": {
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "area": 102
+    },
+    "features": [
+      "Ático102 m2 (construidos)",
+      "3 Habitaciones",
+      "Segunda mano100 m2",
+      "Reformado",
+      "2 baños"
+    ],
+    "extras": [
+      "Terraza",
+      "Balcón",
+      "Ascensor",
+      "Calefacción",
+      "Aire acondicionado"
+    ],
+    "images": {
+      "miniature": {
+        "alt": "Imagen en miniatura del inmueble en venta",
+        "src": "/img/Miniature.png"
+      },
+      "details": ["/img/Detail.png", "/img/Detail.png", "/img/Detail.png"],
+      "map": {
+        "src": "/img/Map.png",
+        "alt": "Mapa de la ubicacion del inmueble"
+      }
+    }
+  }
+]
