@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Link } from "react-router-dom";
 import { PropsOneProduct } from "../../../../interfaces/interfaces";
 
 //Estilos
@@ -107,7 +108,7 @@ const ProductDetails = ({ product }: PropsOneProduct) => {
             alt="Switch Logotipo"
           />
         </div>
-        <button>Contactar</button>
+        <button><a href="mailto: correo@example.com">Contactar</a></button>
       </section>
     </article>
   );
